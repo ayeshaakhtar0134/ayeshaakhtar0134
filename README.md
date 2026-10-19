@@ -31,7 +31,6 @@
 | [aws-terraform-foundation](https://github.com/ayeshaakhtar0134/aws-terraform-foundation) | Multi-AZ VPC, IAM and remote state built with reusable Terraform modules, checked in CI |
 | [ecs-microservices-platform](https://github.com/ayeshaakhtar0134/ecs-microservices-platform) | Microservices on ECS Fargate with Terraform: reusable service module, ALB, Cloud Map, Secrets Manager, autoscaling; reusable GitHub Actions pipeline (test → build → Trivy scan → ECR → ECS) via OIDC |
 | jenkins-pipelines-aws-ops *(coming soon)* | Groovy pipelines for AWS ops jobs with shared functions and Slack notifications |
-| cicd-github-actions-aws *(coming soon)* | Test → build → deploy pipeline to AWS using OIDC, no stored keys |
 | eks-gitops-platform *(coming soon)* | EKS cluster with Helm and ArgoCD GitOps deployments |
 | aws-observability-stack *(coming soon)* | CloudWatch dashboards, alarms and SNS alerts as code |
 
