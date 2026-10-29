@@ -2,7 +2,7 @@
 
 **AWS DevOps Engineer** · I build cloud infrastructure as code and automate delivery on AWS.
 
-📍 Saudi Arabia · 💼 Techvista Systems Ltd. · 🔭 Open to AWS DevOps / Cloud Engineer roles
+📍 Saudi Arabia · 💼 Tenovos · 🔭 Open to AWS DevOps / Cloud Engineer roles
 
 ---
 
